@@ -1,0 +1,7 @@
+Package: CausalInferenceBasics
+Title: A collection causal inference examples
+Description: Longer package description
+Version: Version number(major.minor.patch)
+Author: Name and email of package creator
+Maintainer: Name and email of package maintainer (who to contact with issues)
+License: Abbreviation for an open source license
