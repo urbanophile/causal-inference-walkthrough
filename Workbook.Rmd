@@ -1,0 +1,19 @@
+
+
+```{r}
+setwd("G:/Shared drives/Data/Analysis/Rental Vacancy/src")
+
+install.packages('systemfit')
+install.packages('devtools')
+install.packages("tidyverse")
+```
+
+```{r}
+library(devtools)
+```
+
+```{r}
+
+devtools::install_github("jrnold/masteringmetrics", subdir = "masteringmetrics")
+
+```
